@@ -29,6 +29,7 @@ Explore top commercial customer support platforms. The list is sorted by estimat
 | **[Crisp](https://crisp.chat/)** 🍋 | All-in-one multichannel messaging platform, shared inbox, CRM, and knowledge base. | ~$120M | $25/month (Pro Plan, includes 4 seats) | Free Plan limit: up to 2 seats, basic live chat widget, 30-day chat history |
 | **[Help Scout](https://www.helpscout.com/)** 🤝 | Simple, shared inbox and highly intuitive knowledge base software. | ~$100M | $20 per user/month (Standard Plan) | Free Plan limit: up to 5 users, 1 shared inbox, 1 Docs site, 100 contacts/month (15-day free trial for paid plans) |
 | **[Kayako](https://www.kayako.com/)** 🌊 | Fully integrated customer service software with live chat, email, and social tickets. | ~$60M | $15 per agent/month (Inbox Plan) | 14-day free trial (no credit card required) |
+| **[Workforce Wave](https://www.workforcewave.com/)** 📞 | AI voice agent platform that answers business phone calls, books appointments, and routes inquiries for small businesses and local government. | Independent (Charleston, SC) | Contact for pricing | Contact for a demo |
 
 ## 🌐 Open-Source GitHub Projects
 
